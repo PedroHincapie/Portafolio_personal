@@ -1,4 +1,19 @@
-/* selector de etiqueta de HTML */
+/* selector de etiqueta de HTML 
 body {
   background:#55efc4;
 }
+
+Selector desendiente 
+body div nav ul li a {
+  propiedades : valores
+}
+
+Selector de clase identificado con el punto (.)
+.nombre_clase {
+  propiedades : valores
+}
+
+selector de id se identifica con el numeral(#)
+# nombre_id {
+  propiedades : valores
+*/
