@@ -17,3 +17,46 @@ selector de id se identifica con el numeral(#)
 # nombre_id {
   propiedades : valores
 */
+
+.body{
+  font-family: 'Mali', cursive;
+  color: white;
+  background-color:#ff793f;
+}
+
+.header{
+  height: 103px;
+  background-image: url(../imagenes/ms-icon-144x144.png);
+  background-repeat: no-repeat;
+  background-position-x: right;  
+}
+
+.header a{
+  text-decoration: none;
+  color: white;
+}
+
+.presentacion {
+  background-image: url(../imagenes/perfil2.jpg);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  height: 200px;
+  background-color: #2c2c54;
+}
+
+.presentacion div{
+  width: 500px; 
+}
+
+.presentacion strong{
+   color: #ffb142;
+}
+
+.detalle-presentacion{
+  height: 200px;
+  background-color: #2c2c54;
+}
+
+.detalle-presentacion h2{
+  color: #ffb142;
+}
