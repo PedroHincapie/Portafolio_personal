@@ -48,13 +48,13 @@ selector de id se identifica con el numeral(#)
   background-position-x: right;
   height: 200px;
   width: 1000px;
-  margin: 40px 100px;
+  margin: 20px 100px;
 }
 
 .presentacion div{
   width: 500px; 
   margin: auto;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 .presentacion strong{
@@ -62,8 +62,9 @@ selector de id se identifica con el numeral(#)
 }
 
 .detalle-presentacion{
-  height: 260px;
+  height: 300px;
   margin: 10px 20px;
+  letter-spacing: 1px;
 }
 
 h2{
