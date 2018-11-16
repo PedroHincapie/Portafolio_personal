@@ -46,15 +46,15 @@ selector de id se identifica con el numeral(#)
   background-image: url(../imagenes/perfil2.jpg);
   background-repeat: no-repeat;
   background-position-x: right;
+  width: 700px; 
   height: 200px;
-  width: 800px;
-  margin: 20px 200px;
+  margin: auto;
 }
 
 .presentacion div{
   width: 500px; 
-  margin: auto;
-  letter-spacing: 2px;
+  margin: 5px 20px;
+  letter-spacing: -.1px;
 }
 
 .presentacion strong{
@@ -63,7 +63,7 @@ selector de id se identifica con el numeral(#)
 
 .detalle-presentacion{
   height: 340px;
-  margin: 10px 20px;
+  margin: 10px auto;
   letter-spacing: 1px;
 }
 
@@ -77,7 +77,7 @@ h2{
 }
 
 h3{
-  margin: 20px 100px; 
+  margin: 5px 50px; 
 }
 
 .li-two-grid{
