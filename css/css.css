@@ -47,8 +47,8 @@ selector de id se identifica con el numeral(#)
   background-repeat: no-repeat;
   background-position-x: right;
   height: 200px;
-  width: 1000px;
-  margin: 20px 100px;
+  width: 800px;
+  margin: 20px 200px;
 }
 
 .presentacion div{
@@ -89,7 +89,7 @@ h3{
 }
 
 .detalle-conocimientos{
-  height: 1060px;
+  height: 1030px;
   margin: 20px 20px;
   column-count: 2;
 }
