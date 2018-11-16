@@ -62,9 +62,13 @@ selector de id se identifica con el numeral(#)
 }
 
 .detalle-presentacion{
-  height: 300px;
+  height: 340px;
   margin: 10px 20px;
   letter-spacing: 1px;
+}
+
+.detalle-presentacion strong{
+  color: #ffb142;
 }
 
 h2{
