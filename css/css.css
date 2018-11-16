@@ -36,9 +36,10 @@ selector de id se identifica con el numeral(#)
   color: white;
 }
 
-.border{
+.esquema-general{
   border: 1px solid gray;
   border-radius: 10px;
+  background-color: #2c2c54;
 }
 
 .presentacion {
@@ -47,13 +48,13 @@ selector de id se identifica con el numeral(#)
   background-position-x: right;
   height: 200px;
   width: 1000px;
-  background-color: #2c2c54;
   margin: 40px 100px;
 }
 
 .presentacion div{
   width: 500px; 
   margin: auto;
+  letter-spacing: 1px;
 }
 
 .presentacion strong{
@@ -62,19 +63,26 @@ selector de id se identifica con el numeral(#)
 
 .detalle-presentacion{
   height: 260px;
-  background-color: #2c2c54;
   margin: 10px 20px;
 }
 
-.detalle-presentacion h2{
+h2{
   color: #ffb142;
   margin: 20px 70px; 
 }
 
-.detalle-presentacion h3{
+h3{
   margin: 20px 100px; 
 }
 
-.presentacion-fuente{
-  letter-spacing: 1px;
+.detalle-conocimientos{
+  height: 470px;
+  margin: 20px 20px;
+  column-count: 3;
+}
+
+.detalle-certificaciones{
+  height: 470px;
+  margin: 20px 20px;
+  column-count: 3;
 }
