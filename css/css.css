@@ -21,7 +21,7 @@ selector de id se identifica con el numeral(#)
 .body{
   font-family: 'Mali', cursive;
   color: white;
-  background-color:#ff793f;
+  background-color:#ecf0f1;
 }
 
 .header{
@@ -33,7 +33,7 @@ selector de id se identifica con el numeral(#)
 
 .header a{
   text-decoration: none;
-  color: white;
+  color: #ffb142;
 }
 
 .esquema-general{
@@ -97,4 +97,16 @@ h3{
 .detalle-certificaciones{
   height: 470px;
   margin: 20px 20px;
+  }
+
+  footer { 
+    display: block;
+}
+
+  .icon-facebook {
+    background-image: url(../imagenes/Icon/if_Facebook_1288098.png);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    width: 10000%;
+    height: 400px;
   }
